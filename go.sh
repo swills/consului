@@ -2,7 +2,7 @@
 
 export CONSUL_BINARY_TYPE=oss
 export CONSUL_COPYRIGHT_YEAR=$(date +%Y)
-export CONSUL_VERSION=1.11.3
+export CONSUL_VERSION=1.12.4
 
 export GOPATH=$(mktemp -d)
 gmake
